@@ -1,9 +1,5 @@
-# Links 
+# Pen Reveal Animation 
 
-[ScrollTrigger - Pen Reveal](https://ihatetomatoes.net/store/)
+Done with gsap and its powerful Scroll Trigger plugin. 
 
-# Installation
-
-Simply clone this repo and follow the videos
-
-I will be using [Live Server VSCode extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to live reload any changes. Feel free to install it too.
+This demo was made following ihatetomatoes PenReveal tutorial. 
